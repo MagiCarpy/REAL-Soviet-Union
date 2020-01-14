@@ -1,25 +1,72 @@
 .body {
   background-color: #9a0000;
 }
-.button {
+.GuildS {
   background-color: #710000;
   padding: 15px 25px;
   font-size: 24px;
-  text-align: center;
+  text-align: left;
+  text-decoration: none;
   cursor: pointer;
   outline: none;
   color: #fff;
   border: none;
   border-radius: 15px;
   box-shadow: 0 9px #461111;
-  left: 10px;
-  top: 320px;
+  position: relative;
+  transition: 0.5s ease;
+  top: -75px;
+  left: -420px;
+  right: 0px;
+  bottom: 0px;
 }
 
-.button:hover {background-color: #800000}
+.GuildS:hover {
+  background-color: #800000;
+}
 
-.button:active {
+.GuildS:active {
   background-color: #780000;
   box-shadow: 0 5px #461111;
   transform: translateY(4px);
+}
+
+.Carppb {
+  background-color: #710000;
+  padding: 15px 25px;
+  font-size: 24px;
+  text-align: left;
+  text-decoration: none;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #461111;
+  position: relative;
+  transition: 0.5s ease;
+  top: 75px;
+  left: -1385px;
+  bottom: 0px;
+}
+.Carppb:hover {
+  background-color: #800000;
+}
+.Carppb:active {
+  background-color: #780000;
+  box-shadow: 0 5px #461111;
+  transform: translateY(4px);
+}
+
+div.p {
+  position: relative;
+  top: -15px;
+  left: px;
+  width: 1000px;
+  height: 200px;
+  border: 4px solid #ff9e00;
+  height: 50px;
+  text-align: left;
+  vertical-align: middle;
+  display: table-cell;
 }
