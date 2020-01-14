@@ -9,10 +9,11 @@
   text-decoration: none;
   cursor: pointer;
   outline: none;
-  color: #fff;
+  color: #FF9E00;
   border: none;
   border-radius: 15px;
   box-shadow: 0 9px #461111;
+  width: 1000px;
   position: relative;
   transition: 0.5s ease;
   top: -75px;
@@ -39,7 +40,7 @@
   text-decoration: none;
   cursor: pointer;
   outline: none;
-  color: #fff;
+  color: #FF9E00;
   border: none;
   border-radius: 15px;
   box-shadow: 0 9px #461111;
@@ -47,7 +48,6 @@
   transition: 0.5s ease;
   top: 75px;
   left: -1385px;
-  bottom: 0px;
 }
 .Carppb:hover {
   background-color: #800000;
