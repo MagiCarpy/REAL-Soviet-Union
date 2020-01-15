@@ -8,7 +8,7 @@
   background-color: #9a0000;
 }
 
-.GuildS {
+.GuildSb {
   border-radius: 5px;
   background-color: #710000;
   text-decoration: none;
@@ -20,17 +20,17 @@
   transition: 0.3s ease;
 }
 
-.GuildS:hover {
+.GuildSb:hover {
   background-color: #800000;
 }
 
-.GuildS:active {
+.GuildSb:active {
   background-color: #780000;
   box-shadow: 0 2px #461111;
   transform: translateY(4px);
 }
 
-.Carppb {
+.Statsb {
   border-radius: 5px;
   background-color: #710000;
   text-decoration: none;
@@ -41,29 +41,10 @@
   box-shadow: 0 7px #461111;
   transition: 0.3s ease;
 }
-.Carppb:hover {
+.Statsb:hover {
   background-color: #800000;
 }
-.Carppb:active {
-  background-color: #780000;
-  box-shadow: 0 2px #461111;
-  transform: translateY(4px);
-}
-.Binarykiwib {
-  border-radius: 5px;
-  background-color: #710000;
-  text-decoration: none;
-  list-style: none;
-  font-size: 75%;
-  padding: 0.5% 0.5%;
-  color: #ff9e00;
-  box-shadow: 0 7px #461111;
-  transition: 0.3s ease;
-}
-.Binarykiwib:hover {
-  background-color: #800000;
-}
-.Binarykiwib:active {
+.Statsb:active {
   background-color: #780000;
   box-shadow: 0 2px #461111;
   transform: translateY(4px);
@@ -99,5 +80,5 @@ div.mainbutton {
 
 div.playerbutton {
   text-align: left;
-  margin-top: 20px;
+  margin-top: 2%;
 }
