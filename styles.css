@@ -9,6 +9,7 @@
 }
 
 .GuildS {
+  border-radius: 5px;
   background-color: #710000;
   text-decoration: none;
   list-style: none;
@@ -16,7 +17,7 @@
   padding: 0.5% 0.5%;
   color: #ff9e00;
   box-shadow: 0 7px #461111;
-  transition: 0.5s ease;
+  transition: 0.3s ease;
 }
 
 .GuildS:hover {
@@ -25,11 +26,12 @@
 
 .GuildS:active {
   background-color: #780000;
-  box-shadow: 0 5px #461111;
+  box-shadow: 0 2px #461111;
   transform: translateY(4px);
 }
 
 .Carppb {
+  border-radius: 5px;
   background-color: #710000;
   text-decoration: none;
   list-style: none;
@@ -37,30 +39,64 @@
   padding: 0.5% 0.5%;
   color: #ff9e00;
   box-shadow: 0 7px #461111;
-  transition: 0.5s ease;
+  transition: 0.3s ease;
 }
 .Carppb:hover {
   background-color: #800000;
 }
 .Carppb:active {
   background-color: #780000;
-  box-shadow: 0 5px #461111;
+  box-shadow: 0 2px #461111;
+  transform: translateY(4px);
+}
+.Binarykiwib {
+  border-radius: 5px;
+  background-color: #710000;
+  text-decoration: none;
+  list-style: none;
+  font-size: 75%;
+  padding: 0.5% 0.5%;
+  color: #ff9e00;
+  box-shadow: 0 7px #461111;
+  transition: 0.3s ease;
+}
+.Binarykiwib:hover {
+  background-color: #800000;
+}
+.Binarykiwib:active {
+  background-color: #780000;
+  box-shadow: 0 2px #461111;
   transform: translateY(4px);
 }
 div.t {
   text-align: center;
-  font-size: 200%;
+  font-size: 150%;
   color: #ff9e00; 
+}
+@media screen and (max-width: 1000px) {
+  div.t {
+    text-align: center;
+    font-size: 100%;
+    color: #ff9e00; 
+  }
 }
 div.p {
   text-align: center;
-  font-size: 200%;
+  font-size: 150%;
   color: #ff9e00;
+}
+@media screen and (max-width: 1000px) {
+  div.p {
+    text-align: center;
+    font-size: 100%;
+    color: #ff9e00; 
+  }
 }
 div.mainbutton {
   text-align: center;
   margin-top: 20px;
 }
+
 div.playerbutton {
   text-align: left;
   margin-top: 20px;
