@@ -16,8 +16,8 @@
   width: 1000%;
   position: relative;
   transition: 0.5s ease;
-  bottom: 75px;
-  left: -22%;
+  bottom: 85px;
+  left: 35%;
 }
 
 .GuildS:hover {
@@ -44,8 +44,8 @@
   box-shadow: 0 9px #461111;
   position: relative;
   transition: 0.5s ease;
-  bottom: -50px;
-  left: -72%;
+  bottom: -40px;
+  left: -21%;
 }
 .Carppb:hover {
   background-color: #800000;
@@ -58,12 +58,12 @@
 
 div.p {
   position: relative;
-  top: -15px;
-  left: px;
-  width: 1000px;
-  height: 200px;
+  top: 10%;
+  left: 0%;
+  width: 10%;
+  height: 20%;
   border: 4px solid #ff9e00;
-  height: 50px;
+  height: 20%;
   text-align: left;
   vertical-align: middle;
   display: table-cell;
