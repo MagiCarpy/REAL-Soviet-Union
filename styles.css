@@ -3,23 +3,21 @@
 }
 .GuildS {
   background-color: #710000;
-  padding: 15px 25px;
-  font-size: 24px;
+  padding: 1% 1%;
+  font-size: 150%;
   text-align: left;
   text-decoration: none;
   cursor: pointer;
   outline: none;
-  color: #FF9E00;
+  color: #ff9e00;
   border: none;
-  border-radius: 15px;
-  box-shadow: 0 9px #461111;
-  width: 1000px;
+  border-radius: 25px;
+  box-shadow: 0 10px #461111;
+  width: 1000%;
   position: relative;
   transition: 0.5s ease;
-  top: -75px;
-  left: -420px;
-  right: 0px;
-  bottom: 0px;
+  bottom: 75px;
+  left: -22%;
 }
 
 .GuildS:hover {
@@ -34,20 +32,20 @@
 
 .Carppb {
   background-color: #710000;
-  padding: 15px 25px;
-  font-size: 24px;
+  padding: 1% 1%;
+  font-size: 150%;
   text-align: left;
   text-decoration: none;
   cursor: pointer;
   outline: none;
-  color: #FF9E00;
+  color: #ff9e00;
   border: none;
   border-radius: 15px;
   box-shadow: 0 9px #461111;
   position: relative;
   transition: 0.5s ease;
-  top: 75px;
-  left: -1385px;
+  bottom: -50px;
+  left: -72.75%;
 }
 .Carppb:hover {
   background-color: #800000;
